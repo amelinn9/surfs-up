@@ -23,9 +23,9 @@ Another factor that could affect sales is rain. I have conducted further analysi
 <div align="center">June vs December Precipitation Statistics.</div><br>
 
 -	On average, June experiences 0.08 inches of rain less than December. The average rain in June is 0.14 inches, while the average rain in December is 0.22 inches.
--	Quartile 1 and the minimum rain experienced in June and December were all zero, meaning there were at least 25% of the days in June and December that did not rain at all.
+-	The lower percentile and the minimum rain experienced in June and December were all zero, meaning there were at least 25% of the days in June and December that did not rain at all.
 -	With a 1.99 difference, June had a maximum rain of 4.43 inches and December had a maximum rain of 6.42 inches.
 -	The standard deviations for June and December are 0.336 and 0.541, respectively. Assuming a normal distribution, this means that rain for June would not normally go above 0.48 inches and rain for December would not normally go above 0.76 inches.
 
-To summarise, Oahu is a good place to set up the Surf 'n Shake Shop because even during rainier months like December, less than 0.25 inches of rain/day is experienced. The weather there stays relatively consistent throughout the year, with only about a 4°F difference between one of the hottest (June) months and coldest (December) months. On average, Oahu has ideal temperatures in the 70°Fs which makes it great weather for surfing and ice cream year round.
+To summarise, Oahu is a good place to set up the Surf 'n Shake Shop because even during rainier months like December, less than 0.25 inches of rain/day is experienced. This is very slight rain. The weather there stays relatively consistent throughout the year, with only about a 4°F difference between one of the hottest (June) months and coldest (December) months. On average, Oahu has ideal temperatures in the 70°Fs which makes it great weather for surfing and ice cream year round.
 
