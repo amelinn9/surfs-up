@@ -12,7 +12,7 @@ While on vacation in Hawaii last year, I discovered a newfound passion for surfi
 - On average, June is about 4°F warmer than December. The average temperature in June is 75°F, while the average temperature in December is 71°F.
 -	The minimum temperature observed between June and December has a difference of 8°F. June had a minimum of 64°F and December had a minimum of 56°F.
 -	June and December only had a 2°F difference in maximum temperature, with 85°F and 83°F, respectively.
--	The standard deviations for June and December are 3.257 and 3.746, respectively. Assuming a normal distribution, this means that temperatures for June would not normally go below 71.69°F and would not go above 78.20°F and temperatures for December would not normally go below 67.30°F and would no go above 74.79°F.
+-	The standard deviations for June and December are 3.257 and 3.746, respectively. Assuming a normal distribution, this means that temperatures for June would not normally go below 71.69°F and would not go above 78.20°F and temperatures for December would not normally go below 67.30°F and would not go above 74.79°F.
 
 
 ## Summary
