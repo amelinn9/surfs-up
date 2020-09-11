@@ -1,7 +1,7 @@
 # Surfs Up!
 
 ## Overview
-While on vacation in Hawaii last year, I discovered a newfound passion for surfing and have been trying to come up with a plan to return to Hawaii and live there forever. Finally, thinking that starting a Surf n’ Shake Shop could be a foolproof idea. For this to work out successfully, I needed to get some investor backing. I contacted W. Avy, an investor who is famous for his love of surfing. I provided W. Avy and the board of directors a preliminary analysis of precipitation levels in Oahu- where the shop would be located, to address their initial concerns. In this analysis, we will be finding the key differences in weather between June and December and discussing recommendations for further analysis.
+While on vacation in Hawaii last year, I discovered a newfound passion for surfing and have been trying to come up with a plan to return to Hawaii and live there forever. Finally, thinking that starting a Surf 'n Shake Shop could be a foolproof idea. For this to work out successfully, I needed to get some investor backing. I contacted W. Avy, an investor who is famous for his love of surfing. I provided W. Avy and the board of directors a preliminary analysis of precipitation levels in Oahu- where the shop would be located, to address their initial concerns. In this analysis, we will be finding the key differences in weather between June and December and discussing recommendations for further analysis.
 
 ## Results
 
@@ -27,5 +27,5 @@ Another factor that could affect sales is rain. I have conducted further analysi
 -	With a 1.99 difference, June had a maximum rain of 4.43 inches and December had a maximum rain of 6.42 inches.
 -	The standard deviations for June and December are 0.336 and 0.541, respectively. Assuming a normal distribution, this means that rain for June would not normally go above 0.48 inches and rain for December would not normally go above 0.76 inches.
 
-To summarise, Oahu is a good place to set up the Surf n’ Shake Shop because even during rainier months like December, less than 0.25 inches of rain/day is experienced. The weather there stays relatively consistent throughout the year, with only about a 4°F difference between one of the hottest (June) months and coldest (December) months. On average, Oahu has ideal temperatures in the 70°Fs which makes it great weather for surfing and ice cream year round.
+To summarise, Oahu is a good place to set up the Surf 'n Shake Shop because even during rainier months like December, less than 0.25 inches of rain/day is experienced. The weather there stays relatively consistent throughout the year, with only about a 4°F difference between one of the hottest (June) months and coldest (December) months. On average, Oahu has ideal temperatures in the 70°Fs which makes it great weather for surfing and ice cream year round.
 
