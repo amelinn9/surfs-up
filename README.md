@@ -7,7 +7,7 @@ While on vacation in Hawaii last year, I discovered a newfound passion for surfi
 
 <p align="center"><img src="resources/temps.png"></p>
 
-<div align="center">June vs December Temperature Statistics.</div>
+<div align="center">June vs December Temperature Statistics.</div><br>
 
 - On average, June is about 4°F warmer than December. The average temperature in June is 75°F, while the average temperature in December is 71°F.
 -	The minimum temperature observed between June and December has a difference of 8°F. June had a minimum of 64°F and December had a minimum of 56°F.
@@ -20,7 +20,7 @@ Another factor that could affect sales is rain. I have conducted further analysi
 
 <p align="center"><img src="resources/prcps.png"></p>
 
-<div align="center">June vs December Precipitation Statistics.</div>
+<div align="center">June vs December Precipitation Statistics.</div><br>
 
 -	On average, June experiences 0.08 inches of rain less than December. The average rain in June is 0.14 inches, while the average rain in December is 0.22 inches.
 -	Quartile 1 and the minimum rain experienced in June and December were all zero, meaning there were at least 25% of the days in June and December that did not rain at all.
